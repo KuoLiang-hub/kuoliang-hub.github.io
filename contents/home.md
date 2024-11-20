@@ -17,8 +17,11 @@ B.S., Computer Science, Western Governors University | 2021 - 2023.\
 B.S., Finance, Stockton University | 2016 - 2018.\
 A.S., Business Administration, Atlantic Cape Community College | 2013 - 2016.
 
-#### Skills & Interests
-Data Analytic: Deep Learning and Data Mining with TensorFlow Python\
-Security: Network Vulnerablilty Scan (Nmap, Metasploit, OpenVAS)
-
-
+#### Skills, Tools & Techniques 
+Data Analytic: Python - Pandas, Numpy, Seaborn, Plotly, GeoPandas\
+Deep Learning and Data Mining : Scikit-learn, TensorFlow Python\
+Security: Network Vulnerability Scan (Nmap, Metasploit, OpenVAS)\
+Object-Oriented Programming: Python, Java, C++\
+Server Side Operations: Ubuntu, Bash, AWS Services, Docker\ 
+Web Scraping: Python (requests, xpath, bs4, regex) & JS\
+Automation: Batch Scripting, PowerShell Scripting, BASH, Cron
