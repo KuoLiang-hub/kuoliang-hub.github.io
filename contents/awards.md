@@ -1,9 +1,9 @@
-- First-prize Academic Scholarship, 2023.
+- Python Institute PCAP
 
-- Freshman Academic Scholarship, 2022.
+- CompTIA Security+ (Expire May 2027)
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- CompTIA Project+
 
-- First-prize Enterprise Scholarship, 2021.
+- CFA Level 1 Passed
 
-- First-prize Academic Scholarship, 2019.
+- ITIL® Foundation Certificate in IT Service Management
